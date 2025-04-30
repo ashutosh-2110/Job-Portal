@@ -4,7 +4,15 @@ Getting Started
 
 First, run the development server:
 
-<pre> ``` npm run dev # or yarn dev # or pnpm dev # or bun dev ``` </pre>
+<pre> ``` 
+  npm run dev 
+  # or 
+  yarn dev 
+  # or 
+  pnpm dev 
+  # or 
+  bun dev 
+  ``` </pre>
 
 Open http://localhost:3000 with your browser to see the result.
 
